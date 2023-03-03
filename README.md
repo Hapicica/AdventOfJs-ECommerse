@@ -6,7 +6,7 @@ This challenge is from [Advent of JavaScript](https://www.adventofjs.com/) #adve
 
 You are able to:
 - add meals to the cart
-- change the amount of the meal in the card
+- change the amount of the meal in the cart
 - when the quantity becomes zero, the meal is deleted from the basket and can be added again
 - you can see the total prices and the taxes
 
